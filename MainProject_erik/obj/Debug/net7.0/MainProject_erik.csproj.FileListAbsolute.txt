@@ -1,0 +1,15 @@
+C:\Users\erikd\OneDrive\Desktop\repos\OurSolution_erik\MainProject_erik\obj\Debug\net7.0\MainProject_erik.csproj.AssemblyReference.cache
+C:\Users\erikd\OneDrive\Desktop\repos\OurSolution_erik\MainProject_erik\obj\Debug\net7.0\MainProject_erik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikd\OneDrive\Desktop\repos\OurSolution_erik\MainProject_erik\obj\Debug\net7.0\MainProject_erik.AssemblyInfoInputs.cache
+C:\Users\erikd\OneDrive\Desktop\repos\OurSolution_erik\MainProject_erik\obj\Debug\net7.0\MainProject_erik.AssemblyInfo.cs
+C:\Users\erikd\OneDrive\Desktop\repos\OurSolution_erik\MainProject_erik\obj\Debug\net7.0\MainProject_erik.csproj.CoreCompileInputs.cache
+C:\Users\erikd\OneDrive\Desktop\repos\OurSolution_erik\MainProject_erik\bin\Debug\net7.0\MainProject_erik.exe
+C:\Users\erikd\OneDrive\Desktop\repos\OurSolution_erik\MainProject_erik\bin\Debug\net7.0\MainProject_erik.deps.json
+C:\Users\erikd\OneDrive\Desktop\repos\OurSolution_erik\MainProject_erik\bin\Debug\net7.0\MainProject_erik.runtimeconfig.json
+C:\Users\erikd\OneDrive\Desktop\repos\OurSolution_erik\MainProject_erik\bin\Debug\net7.0\MainProject_erik.dll
+C:\Users\erikd\OneDrive\Desktop\repos\OurSolution_erik\MainProject_erik\bin\Debug\net7.0\MainProject_erik.pdb
+C:\Users\erikd\OneDrive\Desktop\repos\OurSolution_erik\MainProject_erik\obj\Debug\net7.0\MainProject_erik.dll
+C:\Users\erikd\OneDrive\Desktop\repos\OurSolution_erik\MainProject_erik\obj\Debug\net7.0\refint\MainProject_erik.dll
+C:\Users\erikd\OneDrive\Desktop\repos\OurSolution_erik\MainProject_erik\obj\Debug\net7.0\MainProject_erik.pdb
+C:\Users\erikd\OneDrive\Desktop\repos\OurSolution_erik\MainProject_erik\obj\Debug\net7.0\MainProject_erik.genruntimeconfig.cache
+C:\Users\erikd\OneDrive\Desktop\repos\OurSolution_erik\MainProject_erik\obj\Debug\net7.0\ref\MainProject_erik.dll
